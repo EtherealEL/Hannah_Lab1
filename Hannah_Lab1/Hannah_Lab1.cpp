@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World";
+	cout << "Hello from Hannah! This is my first Git commit";
 }
 
