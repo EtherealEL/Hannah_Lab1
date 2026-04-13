@@ -11,7 +11,7 @@ int main()
 
 	cout << "Lab 1 completed on [04/13/26]" << endl;
 	 
-	cout << "Feature by Miriam HR Jones: Branching is awesome!" << endl;
+	cout << "Feature by Miriam HR Jones: Branching is awesome! " << endl;
 	
 }
 
