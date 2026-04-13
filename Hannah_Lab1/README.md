@@ -10,6 +10,6 @@ This is a simple C++ console application created for Git Lab 1.
 
 ## Team Members
 - Jack
-- Hannah
+- Hannah - Feature: student info display
 
 ## Changed Made by Miriam HR Jones: Added a feature greeting.
