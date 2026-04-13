@@ -14,7 +14,7 @@ int main()
 	 
 	cout << "Feature by Miriam HR Jones: Branching is awesome! " << endl;
 
-	cout << "Student ID: 0000499 | Name: Miriam HR Jones " << endl;
+	cout << "Student ID: 0000499 | Name: Miriam HR Jones" << endl;
 	
 }
 
