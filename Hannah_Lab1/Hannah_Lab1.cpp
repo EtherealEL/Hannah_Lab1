@@ -1,5 +1,5 @@
 //Edited directly on GitHub
-//Reviewed and updated by [Student A Name]
+//Reviewed and updated by Jack Reynolds
 
 #include <iostream>
 using namespace std;
