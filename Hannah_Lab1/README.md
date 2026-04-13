@@ -11,3 +11,5 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Jack
 - Hannah
+
+## Changed Made by Miriam HR Jones: Added a feature greeting.
