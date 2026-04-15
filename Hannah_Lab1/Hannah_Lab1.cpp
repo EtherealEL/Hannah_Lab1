@@ -4,8 +4,17 @@
 #include <iostream>
 using namespace std;
 
+
+
 int main()
-{
+{	
+	
+	void myFavoriteNumber()
+	{
+		
+		int fav = 13;
+		cout << "My favorite number is: " << fav << endl;
+	}
 	cout << "Hello from Student A!";
 	cout << "Git makes collaboration easy! " << endl;
 
@@ -16,5 +25,7 @@ int main()
 
 	cout << "Student ID: 0000499 | Name: Miriam HR Jones " << endl;
 	
+	//My favorite number function - added by Hannah
+
 }
 
